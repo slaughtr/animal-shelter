@@ -1,0 +1,35 @@
+* {
+  font-family: arial;
+}
+
+.column {
+  width: 33%;
+  float: left;
+  border: 2px black solid;
+}
+
+.column img {
+  width: 30%;
+}
+
+p {
+  font-size: 18px;
+  font-family: serif;
+  font-weight: bold;
+}
+
+.column p {
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+strong {
+  color: red;
+}
+
+.column p strong {
+  color: pink;
+}
